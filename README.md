@@ -6,7 +6,7 @@
 
 #### Ссылка на страницу сайта:
 
-+ https://paramonovivan.github.io/Scroll-website-_Paranoid-Brewery/
++ https://paramonovivan.github.io/Scroll-website_Paranoid-Brewery/
 
 #### Внешний вид страницы сайта:
 
