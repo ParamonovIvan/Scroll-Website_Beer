@@ -35,6 +35,7 @@ body {
   color: #fafafa;  
   font-family: raleway-c;
   overflow-x: hidden;
+  display: flex;
 }
 
 .logo-section {
