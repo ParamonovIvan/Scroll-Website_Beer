@@ -111,7 +111,7 @@ body {
 }
 
 .text-block__h {
-  font-size: calc(var(--index) * 1.2);
+  font-size: calc(var(--index) * 1.7);
   line-height: calc(var(--index) * 2);
   color: var(--color-header);
   margin-bottom: calc(var(--index) * .75);
