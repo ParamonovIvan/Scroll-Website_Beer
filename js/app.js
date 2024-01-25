@@ -1,6 +1,6 @@
 gsap.registerPlugin(ScrollTrigger, ScrollSmoother)
 
-if (ScrollTrigger.isTouch !== 1) {
+//if (ScrollTrigger.isTouch !== 1) {
 
   ScrollSmoother.create({
     wrapper: '.wrapper',
@@ -46,7 +46,7 @@ if (ScrollTrigger.isTouch !== 1) {
       }
     })
   })
-}
+//}
 
 let soundButton = document.querySelector('.soundbutton'),
                   audio = document.querySelector('.audio')
