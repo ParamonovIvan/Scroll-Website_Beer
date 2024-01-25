@@ -37,6 +37,10 @@ body {
   overflow-x: hidden;
 }
 
+.wrapper {
+  display: flex;
+}
+
 .logo-section {
   background-image: url(../img/logo-bg.png);
   background-size: cover;
