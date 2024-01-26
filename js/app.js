@@ -49,7 +49,7 @@ if (ScrollTrigger.isTouch !== 1) {
 }
 
 let soundButton = document.querySelector('.soundbutton'),
-                  audio = document.querySelector('.audio')
+    audio = document.querySelector('.audio')
 
 soundButton.addEventListener('click', e => {
   soundButton.classList.toggle('paused')
